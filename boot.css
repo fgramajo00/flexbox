@@ -1,0 +1,13 @@
+.container {
+  display: flexbox;
+  justify-content: center;
+  padding: 20px;
+
+  
+}
+[class *='col']{
+ padding: 1rem;
+ background-color: red;
+ border: 2px solid yellow;
+ color: white;
+}
